@@ -22,5 +22,6 @@ export const addProductApi = async (product) => {
 
 export const loadProductsApi = async () => {
   const response = await axios.get(`${API}/products`);
+  const apiCall = await axios.get('https://mango-water-046bd9703.azurestaticapps.net/api/hello?name=bla')
   return parseList(response, 200);
 };

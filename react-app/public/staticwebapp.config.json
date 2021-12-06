@@ -21,6 +21,11 @@
       "route": "/deals",
       "redirect": "/some-legacy-discounts-page.html",
       "statusCode": 301
+    },
+    {
+      "route": "/loaderio-940d2301a96e1c6286b8ba272f9b427f",
+      "redirect": "/loaderio-940d2301a96e1c6286b8ba272f9b427f.html",
+      "statusCode": 301
     }
   ],
   "navigationFallback": {

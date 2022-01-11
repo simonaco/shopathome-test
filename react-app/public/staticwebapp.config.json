@@ -28,6 +28,9 @@
       "statusCode": 301
     }
   ],
+  "platform": {
+    "apiRuntime": "node:14"
+  },
   "navigationFallback": {
     "rewrite": "index.html",
     "exclude": ["/*.{css,scss,js,png,gif,ico,jpg,txt}"]

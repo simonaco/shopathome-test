@@ -1,4 +1,4 @@
-# Static Web Apps - from branch
+# Static Web Apps - platform
 
 This repository contains apps that can be used with as a starting point for some MS Learn Modules. because everyone has their own preference for their JavaScript frameworks/library, you can choose which one you prefer.
 
